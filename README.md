@@ -1,8 +1,8 @@
 # Brandon Kent
 **Senior Software Engineer | Full-Stack Engineering**
 
-Location: Mesa, AZ
-Phone: 480.277.1404
+Location: Mesa, AZ  
+Phone: 480.277.1404  
 Email: brandonk3nt@gmail.com  
 Links: [LinkedIn](https://linkedin.com/in/brandonk3nt) | [GitHub](https://github.com/brandonk3nt)
 
@@ -13,11 +13,11 @@ Senior Software Engineer with 11+ years of experience developing production web 
 ## Technical Skills
 
 **Languages:** _TypeScript, JavaScript, CoffeeScript, HTML, CSS, LESS, Stylus_  
-**Frontend:** React, Next.js, AngularJS, Stencil.js, Web Components, Angular Material, Storybook  
-**Backend:** Node.js, Express, NestJS, REST APIs, GraphQL, Microservices  
-**Cloud & Infrastructure:** AWS (Lambda, EC2, S3, SQS, DynamoDB, Elastic Beanstalk), Docker, Kubernetes, GCP, Vercel  
-**Databases:** PostgreSQL, MongoDB, DynamoDB, Redis  
-**Platforms & Tools:** Shopify, Sanity CMS, Statsig, Git, Karma, Protractor
+**Frontend:** _React, Next.js, AngularJS, Stencil.js, Web Components, Angular Material, Storybook_  
+**Backend:** _Node.js, Express, NestJS, REST APIs, GraphQL, Microservices_  
+**Cloud & Infrastructure:** _AWS (Lambda, EC2, S3, SQS, DynamoDB, Elastic Beanstalk), Docker, Kubernetes, GCP, Vercel_  
+**Databases:** _PostgreSQL, MongoDB, DynamoDB, Redis_  
+**Platforms & Tools:** _Shopify, Sanity CMS, Statsig, Git, Karma, Protractor_
 
 ## Professional Experience
 
