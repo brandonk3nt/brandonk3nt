@@ -1,5 +1,5 @@
 # Brandon Kent
-**Senior Software Engineer | Full-Stack Engineering**
+**Senior Software Engineer // Mobile & Web Applications // Backend Systems // Software Architecture**
 
 📍 Location: Mesa, AZ  
 📟 Phone: 480.277.1404  
