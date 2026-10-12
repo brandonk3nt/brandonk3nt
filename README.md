@@ -1,8 +1,10 @@
 # Brandon Kent
 **Senior Software Engineer | Full-Stack Engineering**
 
-Mesa, AZ | 480.277.1404 | brandonk3nt@gmail.com  
-[LinkedIn](https://linkedin.com/in/brandonk3nt) | [GitHub](https://github.com/brandonk3nt)
+Location: Mesa, AZ
+Phone: 480.277.1404
+Email: brandonk3nt@gmail.com  
+Links: [LinkedIn](https://linkedin.com/in/brandonk3nt) | [GitHub](https://github.com/brandonk3nt)
 
 ## Professional Summary
 
@@ -10,7 +12,7 @@ Senior Software Engineer with 11+ years of experience developing production web 
 
 ## Technical Skills
 
-**Languages:** TypeScript, JavaScript, CoffeeScript, HTML, CSS, LESS, Stylus  
+**Languages:** _TypeScript, JavaScript, CoffeeScript, HTML, CSS, LESS, Stylus_  
 **Frontend:** React, Next.js, AngularJS, Stencil.js, Web Components, Angular Material, Storybook  
 **Backend:** Node.js, Express, NestJS, REST APIs, GraphQL, Microservices  
 **Cloud & Infrastructure:** AWS (Lambda, EC2, S3, SQS, DynamoDB, Elastic Beanstalk), Docker, Kubernetes, GCP, Vercel  
