@@ -1,10 +1,10 @@
 # Brandon Kent
 **Senior Software Engineer | Full-Stack Engineering**
 
-Location: Mesa, AZ  
-Phone: 480.277.1404  
-Email: brandonk3nt@gmail.com  
-Links: [LinkedIn](https://linkedin.com/in/brandonk3nt) | [GitHub](https://github.com/brandonk3nt)
+📍 Location: Mesa, AZ  
+📟 Phone: 480.277.1404  
+📬 Email: brandonk3nt@gmail.com  
+🔗 Links: [LinkedIn](https://linkedin.com/in/brandonk3nt) | [GitHub](https://github.com/brandonk3nt)
 
 ## Professional Summary
 
