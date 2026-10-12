@@ -13,7 +13,7 @@ Senior Software Engineer with 11+ years of experience developing production web 
 ## Technical Skills
 
 **Languages:** _TypeScript, JavaScript, CoffeeScript, HTML, CSS, LESS, Stylus_  
-**Frontend:** _React, Next.js, AngularJS, Stencil.js, Web Components, Angular Material, Storybook_  
+**Frontend:** _React, React Native, Next.js, AngularJS, Stencil.js, Web Components, Angular Material, Storybook_  
 **Backend:** _Node.js, Express, NestJS, REST APIs, GraphQL, Microservices_  
 **Cloud & Infrastructure:** _AWS (Lambda, EC2, S3, SQS, DynamoDB, Elastic Beanstalk), Docker, Kubernetes, GCP, Vercel_  
 **Databases:** _PostgreSQL, MongoDB, DynamoDB, Redis_  
