@@ -1,4 +1,5 @@
-<img src="fourpeaks.jpeg" />
+<img src="fourpeaks.jpeg" />  
+
 # Brandon Kent
 **Senior Software Engineer // Mobile & Web Applications // Backend Systems // Software Architecture**
 
