@@ -23,7 +23,6 @@ Senior Software Engineer with 11+ years of experience developing production web 
 
 ### Senior Software Engineer | Coterie
 *May 2025 – Present | Remote*
-
 **Tech Stack:** TypeScript, Next.js, React, Node.js, Express, MongoDB, GraphQL, Shopify, Sanity, Statsig
 
 - Developed and maintained a **headless Shopify storefront** using Next.js and TypeScript, implementing custom product pages, cart functionality, and checkout experiences.
@@ -34,7 +33,6 @@ Senior Software Engineer with 11+ years of experience developing production web 
 
 ### Senior Fullstack Engineer | Oura
 *June 2022 – May 2025 | Remote*
-
 **Tech Stack:** TypeScript, React, Next.js, Node.js, Express, NestJS, AWS Lambda, DynamoDB, SQS
 
 - Developed and maintained a **Next.js ecommerce storefront** backed by custom APIs, implementing product pages, cart and checkout workflows, state management, reusable React components, and API integrations.
@@ -45,7 +43,6 @@ Senior Software Engineer with 11+ years of experience developing production web 
 
 ### Senior UI Engineer | Lucidworks
 *January 2019 – June 2022 | Remote*
-
 **Tech Stack:** TypeScript, Stencil.js, Web Components, Docker, Storybook
 
 - Developed and maintained a **company-wide, framework-agnostic UI component library** using Stencil.js and Web Components, including NPM publishing, Storybook documentation, and automated testing.
@@ -54,7 +51,6 @@ Senior Software Engineer with 11+ years of experience developing production web 
 
 ### Software Engineer | Integrate
 *December 2016 – February 2019 | Phoenix, AZ*
-
 **Tech Stack:** JavaScript, AngularJS, Angular Material, LESS, Karma, Protractor
 
 - Developed and maintained the frontend of a **lead generation platform** using AngularJS, JavaScript, Angular Material, and LESS.
@@ -63,7 +59,6 @@ Senior Software Engineer with 11+ years of experience developing production web 
 
 ### Software Engineer | Redx
 *April 2015 – December 2016 | Salt Lake City, UT*
-
 **Tech Stack:** JavaScript, CoffeeScript, AngularJS, Stylus, Node.js, Express, MongoDB, Redis, AWS
 
 - Developed **lead management dashboards, search and filtering interfaces, and customer management workflows** using AngularJS and Stylus.
