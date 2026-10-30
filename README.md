@@ -8,10 +8,15 @@
 🔗 [LinkedIn](https://linkedin.com/in/brandonk3nt)  
 🔗 [GitHub](https://github.com/brandonk3nt)  
 
+## Tech Stack
+- **TypeScript**: I first learned programming with Javascript, which eventually gave way to TypeScript. It still is my base language that I compare everything else to. 
+- **Node.js**: Javascript on the backend.
+- **React**: A Javascript library to build UI, I love it and it's still my go-to when building UI.
+  - **Next.js**: A framework built on top of react for the web
+  - **Stencil.js**: A React-inspired library that is used to build web components.
+  - **React Native**: A framework that leverages React to build native mobile applications for iOS and Android.
 
-## Professional Summary
-
-Senior Software Engineer with 11+ years of experience developing production web applications, ecommerce platforms, and distributed backend systems. Extensive experience with TypeScript, React, Next.js, Node.js, and AWS, spanning frontend architecture, API development, microservices, and cloud infrastructure. Experienced in designing new systems, modernizing legacy applications, and collaborating across engineering teams to deliver reliable, maintainable software.
+Senior Software Engineer with 11+ years of experience developing production web applications, eCommerce platforms, mobile applications, and distributed backend systems. Extensive experience with TypeScript, React, Next.js, Node.js, and AWS, spanning frontend architecture, API development, microservices, and cloud infrastructure. Experienced in designing new systems, modernizing legacy applications, and collaborating across engineering teams to deliver reliable, maintainable software.
 
 ## Technical Skills
 
