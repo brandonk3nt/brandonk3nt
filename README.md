@@ -1,12 +1,13 @@
 <img src="fourpeaks.jpeg" />  
 
 # Brandon Kent
-**Senior Software Engineer // Mobile & Web Applications // Backend Systems // Software Architecture**
+**Senior Software Engineer -- Mobile & Web Applications**
 
-📍 Location: Mesa, AZ  
-📟 Phone: 480.277.1404  
-📬 Email: brandonk3nt@gmail.com  
-🔗 Links: [LinkedIn](https://linkedin.com/in/brandonk3nt) | [GitHub](https://github.com/brandonk3nt)
+🔗 [HyperFX](https://www.hyperfx.app/)  
+🔗 [Blog](https://www.fourpeaks.dev/)  
+🔗 [LinkedIn](https://linkedin.com/in/brandonk3nt)  
+🔗 [GitHub](https://github.com/brandonk3nt)  
+
 
 ## Professional Summary
 
